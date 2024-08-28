@@ -1,0 +1,19 @@
+{
+  "apps": [
+    {
+      "name": "survey-app",
+      "module": "survey-app",
+      "displayName": "Survey",
+      "type": "euisdk",
+      "route": "survey-app",
+      "descriptionShort": "Survey"
+    }
+  ],
+  "components": [
+    {
+      "name": "system-profile",
+      "module": "profile",
+      "version": "1.0.0"
+    }
+  ]
+}

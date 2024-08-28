@@ -1,0 +1,16 @@
+{
+  "modules": [
+    {
+      "name": "settings-panel",
+      "version": "1.0.0",
+      "path": "/src/panels",
+      "main": "settings-panel.js"
+    },
+    {
+      "name": "survey-app",
+      "version": "1.0.0",
+      "path": "/src/apps/survey-app",
+      "main": "survey-app.js"
+    }
+  ]
+}
